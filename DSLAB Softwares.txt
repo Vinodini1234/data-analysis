@@ -1,0 +1,60 @@
+Windows 11 Pro 22H2 64bit
+----------------------------
+C:250 GB
+D:700 GB
+C,D Drive rights
+Remote Desktop Users,Admin Group,Power User
+Windows Recovery mode enable
+Users:sa,student,ns
+Windows Scripts in C Drive
+----------------------------
+MS Office 2021 64b    C
+Adobe Reader Latest
+vlc-3.0.20-win64
+Chrome Browser Version 119.0.6045.160 (Official Build) (64-bit)
+Firefox Browser 119.0.1 (64-bit)
+Winrar 64b
+Putty
+Wu10Man
+notepad++
+----------------------------
+Raptor 4.06
+Scratch
+Latex
+Dia
+TurboC     ?
+Geany 2.0
+Python IDE (python-3.10.2-amd64)
+Java 
+Oracle 11G
+Weka
+StarUML 3.22
+R For Datascience,R-Studio,R
+Eclipse IDE
+Tableau    
+PowerBI     
+gp545-win64    
+mysql-installer-community-8.0.31.0
+IBM SPSS 20
+Eview9
+Autocad 2016
+Anaconda
+Andriod Studio
+NS2                
+Wireshark
+VMware_Workstation_Pro_16.1.2
+Khali Linux        ?
+NMAP,     Snort   ?
+MongoDB   ?
+XAAMP
+Hadoop  ?
+Apache-NetBeans-17-bin-windows-x64
+MatLab 2023a  L
+feast
+pycharm
+default browser chrome
+
+
+mysql root password:r00t1234
+mysql username:admin\1234
+
